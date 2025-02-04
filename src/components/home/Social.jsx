@@ -12,7 +12,7 @@ const Social = () => {
       </a>
 
       <a
-        href="https://github.com/anton-dlg"
+        href="https://github.com/anton-dlg?tab=repositories"
         className="home__social-icon"
         target="_blank"
       >

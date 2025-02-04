@@ -1,6 +1,6 @@
 {
-  "homepage": "http://anton-dlg.github.io/Portafolio",
   "name": "prueba",
+  "homepage": "https://anton-dlg.github.io/Portafolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
