@@ -19,11 +19,10 @@ const WorkItems = ({ item }) => {
       {/* Modal */}
       {showModal && (
         <div className="modal-overlay" onClick={() => setShowModal(false)}>
+          <span className="close-button" onClick={() => setShowModal(false)}>
+            <i className="bx bx-x"></i>
+          </span>
           <div className="modal-content" onClick={(e) => e.stopPropagation()}>
-            <span className="close-button" onClick={() => setShowModal(false)}>
-              <i className="bx bx-x"></i>
-            </span>
-
             <div className="video-container">
               {item.youtube ? (
                 <iframe

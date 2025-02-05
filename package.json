@@ -1,6 +1,6 @@
 {
   "name": "prueba",
-  "homepage": "https://anton-dlg.github.io/Portafolio",
+  "homepage": "https://antondelagarza.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -39,3 +39,4 @@
     "gh-pages": "^6.3.0"
   }
 }
+
