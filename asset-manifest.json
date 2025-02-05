@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/static/css/main.95ed7623.css",
-    "main.js": "/static/js/main.9e75c41e.js",
+    "main.js": "/static/js/main.7ac5120f.js",
     "static/media/perfil2.jpg": "/static/media/perfil2.0a42855fe8eca6cc8a0d.jpg",
     "static/media/work1.jpg": "/static/media/work1.7442d460ba661fb9a399.jpg",
     "static/media/work2.jpg": "/static/media/work2.4828e0c20f577802836b.jpg",
     "static/media/work4.jpg": "/static/media/work4.60d83eda2c79e4afc739.jpg",
     "static/media/work5.jpg": "/static/media/work5.f81dbee93c92525df68a.jpg",
+    "static/media/CV_AntonDelaGarza_Español.pdf": "/static/media/CV_AntonDelaGarza_Español.4d1668be88560cea1fd8.pdf",
     "static/media/work6.jpg": "/static/media/work6.b452ac5eeaf25e3f5c6d.jpg",
     "static/media/work3.jpg": "/static/media/work3.0af10ca47f6b4bcde430.jpg",
-    "static/media/CV_AntonDelaGarza_Español.pdf": "/static/media/CV_AntonDelaGarza_Español.40c7af631721faa3acae.pdf",
     "index.html": "/index.html",
     "main.95ed7623.css.map": "/static/css/main.95ed7623.css.map",
-    "main.9e75c41e.js.map": "/static/js/main.9e75c41e.js.map"
+    "main.7ac5120f.js.map": "/static/js/main.7ac5120f.js.map"
   },
   "entrypoints": [
     "static/css/main.95ed7623.css",
-    "static/js/main.9e75c41e.js"
+    "static/js/main.7ac5120f.js"
   ]
 }
