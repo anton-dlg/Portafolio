@@ -19,8 +19,8 @@ export const projectsData = [
     image: Work2,
     title: "Dashboard de ventas Tableu",
     category: "ciencia de datos",
-    youtube: "https://www.youtube.com/watch?v=ksoI-1X9sr4",
-    github: "https://www.instagram.com/"
+    youtube: "https://www.youtube.com/watch?v=C7snn_Lyi0M",
+    github: "https://public.tableau.com/app/profile/anton.de.la.garza/viz/SalesDashboard_17375129389200/SalesDashboard"
   },
   {
     id: 3,

@@ -3,7 +3,7 @@ import "./footer.css";
 
 const Footer = () => {
   return (
-    <footer className="footer">
+    <footer className="footer" id="footer">
       <div className="footer__container container">
         <h1 className="footer__title">AGT</h1>
 
@@ -32,7 +32,7 @@ const Footer = () => {
             <i className="bx bx-envelope"></i>
           </a>
           <a
-            href="wa.link/vj1gz0"
+            href="https://wa.me/8121907884"
             className="footer__social-link"
             target="_blank"
           >
