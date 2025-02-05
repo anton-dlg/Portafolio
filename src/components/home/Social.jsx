@@ -28,7 +28,7 @@ const Social = () => {
       </a>
 
       <a
-        href="wa.link/vj1gz0"
+        href="https://wa.me/8121907884"
         className="home__social-icon"
         target="_blank"
       >
