@@ -100,7 +100,7 @@ const Qualification = () => {
                   SAGO 
                 </span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt"></i> Jun 2024 - Presente
+                  <i className="uil uil-calendar-alt"></i> Jun 2024 - Jul 2025
                 </div>
               </div>
 
